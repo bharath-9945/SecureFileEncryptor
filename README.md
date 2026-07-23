@@ -151,7 +151,7 @@ Expected Result:
 
 # 📷 Screenshots
 
-![image alt](https://kommodo.ai/i/Z40DD8Kv5GwVTOGBUZKI)
+![image alt](https://github.com/bharath-9945/screenshots/blob/3182f0527e566e81fc5057a84e62ca12165f4702/PHOTO-2026-07-23-09-43-32.jpg)
 
 Recommended screenshots:
 
