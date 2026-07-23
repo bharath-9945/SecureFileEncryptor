@@ -1,5 +1,7 @@
 # 🔐 SecureFile Encryptor
 
+![image alt](https://github.com/bharath-9945/screenshots/blob/078fc22dfaea2afa2a79123ffc3a4ccdcc613e2c/PHOTO-2026-07-23-09-43-32.jpg)
+
 > A modern Python desktop application for secure file encryption and decryption using the **Cryptography (Fernet)** library and **CustomTkinter**.
 
 ---
@@ -151,17 +153,8 @@ Expected Result:
 
 # 📷 Screenshots
 
-![image alt](https://github.com/bharath-9945/screenshots/blob/3182f0527e566e81fc5057a84e62ca12165f4702/PHOTO-2026-07-23-09-43-32.jpg)
-
-Recommended screenshots:
-
-* Home Screen
-* Generate Key
-* Encrypt File
-* Decrypt File
-* About Page
-
----
+![image alt](https://github.com/bharath-9945/screenshots/blob/078fc22dfaea2afa2a79123ffc3a4ccdcc613e2c/PHOTO-2026-07-23-09-44-32.jpg)
+![image alt](https://github.com/bharath-9945/screenshots/blob/078fc22dfaea2afa2a79123ffc3a4ccdcc613e2c/PHOTO-2026-07-23-09-45-45.jpg)
 
 # 🚀 Future Enhancements
 
