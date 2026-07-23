@@ -154,7 +154,9 @@ Expected Result:
 Add screenshots inside:
 
 ```text
-assets/screenshots/
+<img width="1280" height="775" alt="PHOTO-2026-07-23-09-43-32" src="https://github.com/user-attachments/assets/6178bf89-9e77-43a6-9219-93c94aec94c0" />
+<img width="1280" height="771" alt="PHOTO-2026-07-23-09-44-32" src="https://github.com/user-attachments/assets/bc85d020-ad77-401d-8bea-c423ecf66c28" />
+<img width="1280" height="754" alt="PHOTO-2026-07-23-09-45-45" src="https://github.com/user-attachments/assets/a4d4626f-66e9-44e5-9cd9-4e23e2778e30" />
 ```
 
 Recommended screenshots:
