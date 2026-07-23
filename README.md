@@ -151,6 +151,7 @@ Expected Result:
 
 # 📷 Screenshots
 
+![image alt](https://kommodo.ai/i/Z40DD8Kv5GwVTOGBUZKI)
 
 Recommended screenshots:
 
